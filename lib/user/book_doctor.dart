@@ -110,7 +110,7 @@ class _BookDoctorState extends State<BookDoctor> {
                               BorderSide(color: Color(0xfff8a55f), width: 2.0),
                         ),
                         border: OutlineInputBorder(),
-                        hintText: 'الشكوى',
+                        hintText: "وصف الحالة",
                       ),
                     ),
                   ),
